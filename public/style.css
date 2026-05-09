@@ -265,8 +265,8 @@ textarea {
    even if not styled as desired */
 [tauri-mode='true'] select,
 [tauri-mode='true'] option {
-  color           : initial;
-  background-color: initial;
+  color           : black;
+  background-color: white;
 }
 
 select {
